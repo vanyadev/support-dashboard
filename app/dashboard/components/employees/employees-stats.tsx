@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
-import cm from "@/public/images/cm.jpg";
+import cm from "@/public/images/img.jpeg";
 import WorkLocationTrends from "./work-location-trends";
 
 export default function EmployeesStats() {
