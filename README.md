@@ -23,7 +23,7 @@ SupportMe is a demonstration project showcasing the implementation and styling c
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/support-me.git
+git clone https://github.com/vanyadev/support-dashboard.git
 
 # Install dependencies
 npm install 
